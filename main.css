@@ -315,6 +315,13 @@ footer{
 
 @media (max-width: 768px) {
 
+.Sobre a{
+  color: rgba(255, 255, 255, 0.978);
+  font-size: 30px;
+}
+
+
+
 .sobre-imagem img {
     max-width: 180px;
     border-radius: 10px;
@@ -328,10 +335,11 @@ footer{
 .Sobre p {
     font-family: 'Roboto', sans-serif;
     font-size: 20px;
-    color: #ffffff;
+    color: #e4e4e4;
     line-height: 1.5;
     margin-bottom: 0px;
     text-align: left;
+    height: 20vh;
 }
 
 .Oque-oferecemso h1{
