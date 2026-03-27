@@ -48,6 +48,7 @@ header button{
   cursor: pointer;
   font-family: 'Anton', sans-serif; /* se quiser usar a fonte Anton */
   font-size: 1.2em;
+  color: #141414;
 }
 
 h2 {
